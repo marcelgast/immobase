@@ -14,6 +14,7 @@
 
 <p align="center">
   <a href="LICENSE"><img alt="License: AGPL-3.0-or-later" src="https://img.shields.io/github/license/marcelgast/immobase"></a>
+  <a href="https://github.com/marcelgast/immobase/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/marcelgast/immobase"></a>
   <a href="https://github.com/marcelgast/immobase/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/marcelgast/immobase/actions/workflows/ci.yml/badge.svg?branch=main"></a>
   <a href="https://github.com/marcelgast/immobase/commits/main"><img alt="Last commit" src="https://img.shields.io/github/last-commit/marcelgast/immobase"></a>
   <img alt="PHP 8.4" src="https://img.shields.io/badge/PHP-8.4-777BB4?logo=php&amp;logoColor=white">
